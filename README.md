@@ -5,7 +5,7 @@ The LoFi Generative Sequencer is a self-contained, DIY electronic musical instru
 Interface controls include:
 
 + Buttons - Play, Generate / Shift
-+ Dials - Timbre / Shape, Pange / Octave, Volume / Tempo, Density / Length
++ Dials - Timbre / Shape, Range / Octave, Volume / Tempo, Density / Length
 + Switch - Power
 + LEDs - Power, Metronome
 
