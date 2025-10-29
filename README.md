@@ -9,3 +9,4 @@ Interface controls include:
 + Switch - Power
 + LEDs - Power, Metronome
 
+This project uses [M8](https://github.com/algomusic/M8), an 8 Bit Arduino PWM audio library for the ESP32
