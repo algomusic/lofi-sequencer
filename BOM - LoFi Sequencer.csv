@@ -15,8 +15,7 @@ Wire (dupont) pack of 40,2,M to M dupont cables 300mm 16 wires per instrument,Ta
 LED Red,1,5mm,Tayda,https://www.taydaelectronics.com/led-5mm-green.html
 LED Green,1,5mm,Tayda,https://www.taydaelectronics.com/led-5mm-green.html
 Capacitors (LPF),1,0.1uF 104,Tayda,https://www.taydaelectronics.com/0-1uf-50v-ceramic-disc-capacitor-pkg-of-10-aec.html
-Resitors (LED),2,220 Ohm,Tayda,https://www.taydaelectronics.com/resistors/1-4w-carbon-film-resistors/10-x-resistor-220-ohm-1-4w-5-carbon-film-pkg-of-10.html
-Resistor (LPF),1,10 K Ohm,Tayda,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/10-x-resistor-10k-ohm-1-4w-1-metal-film-pkg-of-10.html
+Resitors (LED and RC Filter),3,270 Ohm,Tayda,https://www.taydaelectronics.com/10-x-resistor-270-ohm-1-4w-5-carbon-film-pkg-of-10.html
 Wood,1,4mm  ply 600 x 400,,
 Solder,0.1,1mm,Aliexpress,https://www.aliexpress.com/item/1005006030104628.html
 Speaker 100 mm,,AS3008 speaker,JayCar,https://www.jaycar.com.au/100mm-all-purpose-replacement-speaker/p/AS3008
