@@ -10,3 +10,7 @@ Interface controls include:
 + LEDs - Power, Metronome
 
 This project uses [M8](https://github.com/algomusic/M8), an 8 Bit Arduino PWM audio library for the ESP32
+
+The sProto version of the LoFi Sequnncer uses the [M16](https://github.com/algomusic/M16) audio library.
+
+To flash the sProto version firmware use the [ESP Connnect](https://thelastoutpostworkshop.github.io/ESPConnect/) online tool.
